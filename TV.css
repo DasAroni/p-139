@@ -1,0 +1,26 @@
+body{
+    background-position: center;
+}
+
+.heading{
+    width: 30%;
+    font-size: larger;
+    border-radius: 20px;
+}
+
+.heading:hover{
+    font-size: large;
+}
+
+.link{
+    background-color: black;
+    width: 80px;
+    border-radius: 5px;
+    float: right;
+    color: white;
+}
+
+canvas{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
